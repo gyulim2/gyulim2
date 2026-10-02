@@ -4,7 +4,7 @@
 
 **DFIR · 악성코드 분석 · 차량 보안 · 보안 자동화**에 관심이 있습니다.
 
-[Portfolio](https://gyulim2.github.io) · [Email](mailto:2371075@ewha.ac.kr)
+[Portfolio](https://gyulim2.github.io) · [Blog](https://kimgyulim.tistory.com/) · [Email](mailto:2371075@ewha.ac.kr)
 
 ---
 
